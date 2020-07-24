@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/ashikjm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hedy-li-8608831a6" height="20" width="20" /></a>
 </p>
 
-<center>Looking to collaborate on  **anything**.</center>
+Looking to collaborate on  **anything**.
 
 
 <!--
